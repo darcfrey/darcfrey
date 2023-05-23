@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darcfrey
-- 👀 I’m interested in sql
+- 👀 I’m interested in javascript
 - 🌱 I’m currently learning sql
 - 💞️ I’m looking to collaborate on sql projects 
 - 📫 How to reach me https://twitter.com/Darcfrey3?t=_pajrmkRs63uTzayCHn3KA&s=09
