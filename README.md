@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darcfrey
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on javascript projects 
+- 👀 I’m interested in python for ai/ml
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python projects 
 - 📫 How to reach me https://twitter.com/Darcfrey3?t=_pajrmkRs63uTzayCHn3KA&s=09
 
 <!---
