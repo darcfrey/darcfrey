@@ -10,7 +10,7 @@ Skills:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwindcss,html,css,javascript,bash,git,vim,c,python,vercel,discord,,anaconda,cpp,github,gmail,instagram,linkedin,md,nodejs,npm,powershell,pycharm,replit,stackoverflow,twitter,visualstudio,vscode,windows,netlify" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bash,git,vim,c,python,vercel,discord,,anaconda,cpp,github,gmail,linkedin,md,nodejs,npm,powershell,pycharm,replit,stackoverflow,twitter,visualstudio,vscode,windows,netlify" />
   </a>
 </p>
 
